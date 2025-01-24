@@ -1,10 +1,10 @@
-- 👋 Hi, I’m oakley
-- 👀 I’m interested in learning ethical hacking
-- 🌱 I’m currently learning coding
+-  Hi, I’m oakley
+-  I’m interested in learning ethical hacking and game development
+-  I’m currently learning coding
   
-- 📫 reach me on discord oak._.tree.3610
+-  reach me on discord oak._.tree.3610
   
-- 😄 Pronouns: he/they
+-  Pronouns: he/they
 
 <!---
 Oak-Tree444/Oak-Tree444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
